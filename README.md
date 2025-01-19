@@ -2,7 +2,7 @@
 
 🚀 Welcome to my GitHub space!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Engineer;Machine+Learning+Engineering;IOT+Pioneer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Engineer;Machine+Learning+Engineer;IOT+Pioneer)](https://git.io/typing-svg)
 
 ### 🌐 About Me
 I'm a computer engineering and computer science student with a passion for **AI**, **Full-Stack Development**, and **Software Engineering**. As a part of the **Wisconsin Autonomous Perceptions Team**, I work on optimizing perception models for self-driving cars. I also have hands-on experience in IoT, machine learning, and advanced software development.
