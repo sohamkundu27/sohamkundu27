@@ -2,75 +2,75 @@
 
 🚀 Welcome to my GitHub space!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Engineer;Machine+Learning+Engineer;IOT+Pioneer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Engineer;AI+Engineer;Startup+Builder)](https://git.io/typing-svg)
 
 ### 🌐 About Me
-I'm a computer engineering and computer science student with a passion for **AI**, **Full-Stack Development**, and **Software Engineering**. As a part of the **Wisconsin Autonomous Perceptions Team**, I work on optimizing perception models for self-driving cars. I also have hands-on experience in IoT, machine learning, and advanced software development.
+I'm a Computer Engineering + Computer Science student at UW–Madison building at the intersection of **AI**, **systems engineering**, and **product**. Whether it's perception models for autonomous vehicles, embedded NLOS hardware, or agentic-AI systems, I thrive on creating real-world impact through code.
 
-💻 **Visit my portfolio**: [sohamkundu.dev](https://www.sohamkundu.dev)  
-📫 **Get in touch**: [Email](mailto:skundu6@wisc.edu)  
-🔗 **Connect with me!**: [Soham's LinkedIn](https://www.linkedin.com/in/sohamkundu27)
-
----
-
-### ⚡ Tech Stack
-
-- **Languages**: 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-  ![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=cplusplus&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-  ![Assembly](https://img.shields.io/badge/-Assembly-000000)
-
-- **Frameworks, Libraries, and Tools**: 
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-  ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-
-- **Developer Tools**: 
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-  ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-  ![Jetson Nano](https://img.shields.io/badge/-Jetson_Nano-76B900?logo=nvidia&logoColor=white)
-  ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
+👨‍💻 **Portfolio**: [sohamkundu.dev](https://www.sohamkundu.dev)  
+📬 **Email**: [skundu6@wisc.edu](mailto:skundu6@wisc.edu)  
+🔗 **LinkedIn**: [linkedin.com/in/sohamkundu27](https://linkedin.com/in/sohamkundu27)
 
 ---
 
-### 🚀 Projects & Collaborations
+### 💼 Experience
 
-- **[Greenhouse IoT Monitoring System](https://github.com/sohamkundu27/Greenhouse-IoT-Monitoring-System)**:  
-  Designed a scalable IoT solution using Raspberry Pi, Docker, and Azure to monitor greenhouse environments. Created REST APIs with Django and an interactive React dashboard.
+- **AI/SWE Intern @ Blue Cross Blue Shield**  
+  Built agentic-AI prototypes using Azure AI, .NET, and Python. Cut CSR search time by 90% for 3M+ members.  
+  → LangChain, semantic retrieval, LLM integration.
 
-- **[Cribify](https://github.com/sohamkundu27/Cribify)**:  
-  A housing search app built with React Native and Flask, featuring a hybrid StackingClassifier for enhanced user preference matching and proximity-based recommendations.
+- **Lead SWE & Co-Founder @ FiPet**  
+  Gamified finance app for Gen Z. Built full-stack Firebase + React Native platform, led 10+ devs, and managed 200+ user waitlist.  
+  → fipet.dev
 
-- **[JetBot Autonomous Robot](https://github.com/sohamkundu27/Jetbot)**:  
-  Developed a Jetson Nano-powered robot with real-time object recognition and autonomous navigation using machine learning.
+- **NLOS Imaging Research (Velten Lab)**  
+  Designed real-time SPAD/laser data pipelines and neural models to reconstruct occluded objects.  
+  → Python, MATLAB, embedded systems.
 
-- **[ML Activity Recommender](https://github.com/sohamkundu27/ML-Activities-Recomender-System)**:  
-  A machine learning-powered web app for personalized activity suggestions, achieving 95% accuracy using a RandomForestClassifier.
+- **Software Engineer @ Wisconsin Autonomous**  
+  Developed OpenCV ML pipelines for real-time cone/lane detection in autonomous vehicles.  
+  → Perception module, Git workflows, team of 30+.
 
 ---
 
-### 🌱 Current Focus
-I'm delving into **NLOS imaging**, **autonomous vehicle perception**, and **cloud-based IoT solutions**. My goal is to innovate at the intersection of AI, hardware, and software.
+### 🚀 Projects
+
+- **[ClaimReady](https://claim-ready.vercel.app)**  
+  AI-powered claim valuation platform (YOLOv11, Gemini, Supabase).  
+  Cut 20+ hour insurance workflows to minutes; 350+ users.  
+  🏆 1st @ MadData25 • Top 3 @ University Pitch Madness
+
+- **[HypeRacing](https://hyperacing.us)**  
+  Real-time F1 daily fantasy app with Go, Next.js, Firebase, and live telemetry.  
+  Built REST backend, auth, and predictive dashboards for 200+ users.
+
+- **[Voice-Controlled MCP Robot Arm](https://github.com/sohamkundu27/UCBerkeleyAIHackathon)**  
+  Built full voice interface + LLM planner to convert commands like “clear the table” into JSON robot actions.
+
+- **[Greenhouse IoT Monitoring System](https://github.com/sohamkundu27/GIoTMS)**  
+  End-to-end IoT system with Raspberry Pi + Django/React, monitoring 10k+ daily data points remotely via Azure.
 
 ---
 
-### 🔥 GitHub Highlights
+### 🧠 Technical Stack
 
-![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamkundu27&show_icons=true&theme=radical)
+- **Languages**: Go, Python, Java, JavaScript, SQL, C/C++
+- **Frameworks**: Django, Flask, React, React Native, .NET, TensorFlow, PyTorch
+- **Tools**: Docker, Azure, AWS, CI/CD, Supabase, GCP, GitHub Actions
+- **Specialties**: LLMs, Computer Vision, Embedded Systems, Realtime Pipelines
 
+---
+
+### 🧠 Current Focus
+Agentic AI prototypes, embedded robotics, startup scaling, and preparing for a career at the intersection of **AI x Systems x Product**.
+
+---
+
+### 🏆 GitHub Highlights
+
+![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamkundu27&show_icons=true&theme=radical)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sohamkundu27&theme=radical)
+
+---
+
+Let me know if you want the resume downloadable directly or linked as a badge.
