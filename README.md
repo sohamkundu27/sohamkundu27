@@ -2,7 +2,7 @@
 
 🚀 Welcome to my GitHub space!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Engineer;AI+Engineer;Startup+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Engineer;AI+Engineer;DevOps)](https://git.io/typing-svg)
 
 ### 🌐 About Me
 I'm a Computer Engineering + Computer Science student at UW–Madison building at the intersection of **AI**, **systems engineering**, and **product**. Whether it's perception models for autonomous vehicles, embedded NLOS hardware, or agentic-AI systems, I thrive on creating real-world impact through code.
